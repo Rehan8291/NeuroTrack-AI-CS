@@ -71,15 +71,10 @@ actual GUI. I did verify, without customtkinter:
 customtkinter installed) and tell me if anything looks visually off —
 I can't see the rendered UI from here.
 
-## 🟡 Still not done (from your plan)
+## 🟡 Still not done 
 
 - **Profile picture** — not implemented (would need a file picker + image display)
 - **PDF Report / Pomodoro Timer / Focus Music / Weather Widget** — bonus features, not started
 - Achievement badges don't have custom icons/artwork, just emoji
 
-## Next suggested step
 
-Run the app, click "➕ Log Today" a few times with different values, and
-walk through every sidebar page to confirm everything renders the way
-you expect. Then we can polish the visuals or add whichever bonus
-feature matters most for your presentation.
